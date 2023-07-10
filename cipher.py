@@ -1,3 +1,4 @@
+# Author: Juba Twain.
 text = input("Give me text: ") #normal text
 key = int(input("Key: ")) 
 output = ""
